@@ -10,7 +10,6 @@ $ npm i --save is-win
 
             
 ## :clipboard: Example
-
         
 
 ```js
