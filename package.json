@@ -1,0 +1,31 @@
+{
+  "name": "is-win",
+  "description": "Check if the machine is running Windows or not.",
+  "keywords": [
+    "is",
+    "win",
+    "check",
+    "if",
+    "the",
+    "machine",
+    "running",
+    "windows",
+    "or",
+    "not"
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/is-win.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/is-win/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/is-win#readme"
+}
