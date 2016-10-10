@@ -14,7 +14,7 @@
     "not"
   ],
   "license": "MIT",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "lib/index.js",
   "scripts": {
     "test": "node test"
