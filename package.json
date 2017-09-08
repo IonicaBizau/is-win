@@ -14,7 +14,7 @@
     "not"
   ],
   "license": "MIT",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "main": "lib/index.js",
   "scripts": {
     "test": "node test"
@@ -41,6 +41,9 @@
     "resources/",
     "menu/",
     "cli.js",
-    "index.js"
+    "index.js",
+    "bloggify.js",
+    "bloggify.json",
+    "bloggify/"
   ]
 }
