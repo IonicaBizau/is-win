@@ -10,7 +10,11 @@
 ## :cloud: Installation
 
 ```sh
-$ npm i --save is-win
+# Using npm
+npm install --save is-win
+
+# Using yarn
+yarn add is-win
 ```
 
 
@@ -32,7 +36,9 @@ There are few ways to get help:
 
  1. Please [post questions on Stack Overflow](https://stackoverflow.com/questions/ask). You can open issues with questions, as long you add a link to your Stack Overflow question.
  2. For bug reports and feature requests, open issues. :bug:
+
  3. For direct and quick help, you can [use Codementor](https://www.codementor.io/johnnyb). :rocket:
+
 
 
 ## :memo: Documentation
@@ -76,6 +82,7 @@ If you are using this library in one of your projects, add it in this list. :spa
  - [`emoji-logger`](https://github.com/IonicaBizau/emoji-logger#readme)—Logging library based on flat colors and Emoji.
  - [`powershell`](https://github.com/IonicaBizau/powershell#readme)—Run PowerShell scripts and commands from Node.js.
  - [`promptify`](https://github.com/IonicaBizau/promptify#readme)—An easy-to-use prompt for Node.js.
+ - [`tester`](https://github.com/IonicaBizau/tester#readme)—Unit testing made simple and fun: flat colors and emoji in your tests.
 
 ## :scroll: License
 
